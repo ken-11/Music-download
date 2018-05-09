@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-from __future__ import unicode_literals
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
 """
 Created on Sun Apr 22 12:14:55 2018
 
